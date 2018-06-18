@@ -7,7 +7,7 @@ public class ConnectionDB {
     
     static String db = "sistema_ae";
     static String login = "root";
-    static String password = "SSDesarrollo*123";
+    static String password = "root";
     static String url ="jdbc:mysql://localhost/" + db;
     
     Connection cn = null;
